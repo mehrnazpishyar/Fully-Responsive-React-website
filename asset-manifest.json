@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/%7BFully-Responsive-React-website%7D/static/css/main.187f5c72.css",
-    "main.js": "/%7BFully-Responsive-React-website%7D/static/js/main.3a2d83fb.js",
-    "static/media/ai.png": "/%7BFully-Responsive-React-website%7D/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/%7BFully-Responsive-React-website%7D/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/%7BFully-Responsive-React-website%7D/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/%7BFully-Responsive-React-website%7D/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/%7BFully-Responsive-React-website%7D/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/%7BFully-Responsive-React-website%7D/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/%7BFully-Responsive-React-website%7D/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/%7BFully-Responsive-React-website%7D/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/%7BFully-Responsive-React-website%7D/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/%7BFully-Responsive-React-website%7D/index.html",
-    "main.187f5c72.css.map": "/%7BFully-Responsive-React-website%7D/static/css/main.187f5c72.css.map",
-    "main.3a2d83fb.js.map": "/%7BFully-Responsive-React-website%7D/static/js/main.3a2d83fb.js.map"
+    "main.css": "/Fully-Responsive-React-website/static/css/main.187f5c72.css",
+    "main.js": "/Fully-Responsive-React-website/static/js/main.1f25d101.js",
+    "static/media/ai.png": "/Fully-Responsive-React-website/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/Fully-Responsive-React-website/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/Fully-Responsive-React-website/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/Fully-Responsive-React-website/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/Fully-Responsive-React-website/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/Fully-Responsive-React-website/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/Fully-Responsive-React-website/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/Fully-Responsive-React-website/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/Fully-Responsive-React-website/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/Fully-Responsive-React-website/index.html",
+    "main.187f5c72.css.map": "/Fully-Responsive-React-website/static/css/main.187f5c72.css.map",
+    "main.1f25d101.js.map": "/Fully-Responsive-React-website/static/js/main.1f25d101.js.map"
   },
   "entrypoints": [
     "static/css/main.187f5c72.css",
-    "static/js/main.3a2d83fb.js"
+    "static/js/main.1f25d101.js"
   ]
 }
