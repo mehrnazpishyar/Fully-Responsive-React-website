@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Fully-Responsive-React-website/static/css/main.187f5c72.css",
+    "main.css": "/Fully-Responsive-React-website/static/css/main.5ec06363.css",
     "main.js": "/Fully-Responsive-React-website/static/js/main.1f25d101.js",
     "static/media/ai.png": "/Fully-Responsive-React-website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/Fully-Responsive-React-website/static/media/possibility.525f13b61a2157d44de0.png",
@@ -12,11 +12,11 @@
     "static/media/people.png": "/Fully-Responsive-React-website/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/Fully-Responsive-React-website/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/Fully-Responsive-React-website/index.html",
-    "main.187f5c72.css.map": "/Fully-Responsive-React-website/static/css/main.187f5c72.css.map",
+    "main.5ec06363.css.map": "/Fully-Responsive-React-website/static/css/main.5ec06363.css.map",
     "main.1f25d101.js.map": "/Fully-Responsive-React-website/static/js/main.1f25d101.js.map"
   },
   "entrypoints": [
-    "static/css/main.187f5c72.css",
+    "static/css/main.5ec06363.css",
     "static/js/main.1f25d101.js"
   ]
 }
