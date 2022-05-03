@@ -3,7 +3,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
     background: var(--color-footer);
 }
 
@@ -32,7 +31,15 @@
 
     margin-bottom: 10rem;
     cursor: pointer;
+
 }
+
+.gpt3__footer-btn:hover,
+.gpt3__footer-btn:focus {
+    background: var(--gradient-text);
+        transition: all 0.3s ease;
+}
+
 
 .gpt3__footer-btn p {
     font-size: 18px;
